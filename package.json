@@ -1,0 +1,9 @@
+{
+  "name": "reusable-ui-widgets",
+  "description": "reusable UI widgets using requirejs and knockout",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
